@@ -1,4 +1,4 @@
-function IndexedObejct(name, startValue) {
+function IndexedObject(name, startValue) {
 	let db, store;
 	let rq = window.indexedDB.open(name, 1);
 	this.reset = function() {
