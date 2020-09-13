@@ -1,5 +1,7 @@
 # indexedObject
 ## The simplest indexedDB wrap
+# cdn element
+`<script src="https://cdn.jsdelivr.net/gh/ironblockhd/indexedObject@latest/indexedObject.js"></script>`
 # demo
 https://htmleditor.ironblockhd.repl.co/reserved/editor/
 # documentation
