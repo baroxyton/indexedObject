@@ -9,4 +9,5 @@ https://htmleditor.ironblockhd.repl.co/reserved/editor/
 `db.onready.then(main)`
 ## read/write database object
 note: the database must be ready to access the data
+
 `db.data`
